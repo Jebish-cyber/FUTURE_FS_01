@@ -1,0 +1,10 @@
+{
+  "command": "java -jar portfolio-0.0.1-SNAPSHOT.jar",
+  "buildPath": ".",
+  "stack": "java21",
+  "env_variables": {},
+  "memory": 256,
+  "scripts": {},
+  "platform": "javase"
+}
+
